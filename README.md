@@ -1,2 +1,0 @@
-# portfolio git init
-# portfolio

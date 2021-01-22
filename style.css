@@ -16,7 +16,13 @@
     height: 350px;
     width: 35%;
     margin: 2rem auto;
-    margin-bottom: 0;
+    margin-bottom: 1rem;
+}
+
+.portfolio-image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 .portfolion-intro{
@@ -40,4 +46,8 @@
 
 .portfolion-intro a{
     color: inherit;
+}
+
+.page-footer{
+    border: 1px solid red;
 }

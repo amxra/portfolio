@@ -13,14 +13,31 @@
 
 .portfolio-image{
     border: 1px solid red;
-    height: 400px;
+    height: 350px;
     width: 35%;
-    margin: 3rem auto;
+    margin: 2rem auto;
+    margin-bottom: 0;
 }
 
 .portfolion-intro{
     border: 1px solid red;
-    height: 200px;
+    height: auto;
     width: 60%;
     margin: auto;
+    padding: 1rem 2rem;
+}
+
+.portfolion-intro h1{
+    text-align: center;
+    font-size: 3.75em;
+    margin: 1rem;
+    margin-top: 0;
+}
+
+.portfolion-intro p{
+    margin: 1rem;
+}
+
+.portfolion-intro a{
+    color: inherit;
 }

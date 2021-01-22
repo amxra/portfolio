@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    border: 1px solid red;
+    height: 100vh;
+}
+
+
+.portfolio-image{
+    border: 1px solid red;
+    height: 400px;
+    width: 35%;
+    margin: 3rem auto;
+}
+
+.portfolion-intro{
+    border: 1px solid red;
+    height: 200px;
+    width: 60%;
+    margin: auto;
+}
